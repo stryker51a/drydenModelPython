@@ -15,6 +15,11 @@
 #   publisher={IEEE}
 # }
 
+
+# File Modifier: Ethan Piper
+# email: ethan.b.piper@vanderbilt.edu
+# Based on original file by the authors above
+
 # Link to Original GitHub Repo: https://github.com/radlab-sketch/drydenModelPython
 
 ###########################################################################################################
